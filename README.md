@@ -10,7 +10,7 @@
 tem como objetivo realizar a analise de rentabilidade de uma carteira de acoes.
 
 ## Pré-requisitos
-- Jupyter notebook 6.5.7
+- Jupyter notebook 6.5.7 (kernel 3)
 - Python 3.x
 - biblioteca yfinance
 
